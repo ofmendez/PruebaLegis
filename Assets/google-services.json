@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "416286080609",
+    "firebase_url": "https://pruebalegis.firebaseio.com",
+    "project_id": "pruebalegis",
+    "storage_bucket": "pruebalegis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416286080609:android:28968a25caf20edd34f420",
+        "android_client_info": {
+          "package_name": "com.ofmendez.PruebaLegis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416286080609-9n6129i2muku8jmtba7tmd8gbhveg8ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpBOQgiPW08VN7KpmFvLKUX0rRSt454pA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416286080609-9n6129i2muku8jmtba7tmd8gbhveg8ia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
